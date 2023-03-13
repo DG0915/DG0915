@@ -2,16 +2,10 @@
 
 Hi there 👋 I'm Dhanashri!
 
-🔭 I'm a Salesforce Developer - 2x Salesforce Certified, 2x Ranger and 3x Superbadge.
-I am a motivated learner and enthusiast looking to develop my skills and knowledge in salesforce.
-
-I am committed to continuous learning and growth, and I understand that making mistakes is a natural part of the process. 
-I am eager to embrace challenges and learn from my mistakes in order to improve and achieve success.
-I hold following Certifications:
-
-1.Salesforce Certified Administrator
-2.Salesforce Certified Platform Developer 1
-3.Jira Fundamentals Badge 
+🔭  I'm a Salesforce Developer - 2x Salesforce Certified, 2x Ranger and 3x Superbadge.
+🛠   I am a motivated learner and enthusiast looking to develop my skills and knowledge in salesforce.
+🌱  I am committed to continuous learning and growth, and I understand that making mistakes is a natural part of the process. 
+👨‍  I am eager to embrace challenges and learn from my mistakes in order to improve and achieve success.
 
 
 Here are few Links related to personal Project:
