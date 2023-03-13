@@ -11,6 +11,15 @@ Hi there 👋 I'm Dhanashri!
 👨‍  I am eager to embrace challenges and learn from my mistakes in order to improve and achieve success.
 
 
+Certifications:
+
+💻  Salesforce Certified Administrator
+
+💻  Salesforce Certified Platform Developer 1
+
+💻  Jira Fundamentals Badge
+
+
 Here are few Links related to personal Project:
 
 LWC Developement :            https://lwc-dhana-dev-ed.develop.my.site.com/s/lwc-dhanashri-gade
