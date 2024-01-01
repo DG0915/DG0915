@@ -19,6 +19,8 @@ Certifications:
 
 💻  Salesforce Certified Platform App Builder
 
+💻  Salesforce Certified Sales Cloud Consultant
+
 💻  Jira Fundamentals Badge
 
 
