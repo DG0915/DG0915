@@ -2,7 +2,7 @@
 
 Hi there 👋 I'm Dhanashri!
 
-🔭  I'm a Salesforce Developer - 5x Salesforce Certified, 2x Ranger and 3x Superbadge.
+🔭  I'm a Salesforce Developer - 9x Salesforce Certified, 4x Ranger and 3x Superbadge.
 
 🛠   I am a motivated learner and enthusiast looking to develop my skills and knowledge in salesforce.
 
@@ -22,6 +22,14 @@ Certifications:
 💻  Salesforce Certified Platform App Builder
 
 💻  Salesforce Certified Sales Cloud Consultant
+
+💻  Salesforce Certified Data Cloud Consultant
+
+💻  Salesforce Certified Associate
+
+💻  Salesforce Certified AI Associate
+
+💻  Salesforce Certified AI Specialist
 
 💻  Jira Fundamentals Badge
 
